@@ -28,3 +28,6 @@ Material de estudos práticos do Programa ONE da Oracle
 * java.util.Collections
 * Collections.emptySet(..)
 * https://docs.oracle.com/javase/8/docs/api/java/util/Collections.html
+
+* Classe String já possui um método próprio para gerar um hashCode.
+* https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html#equals-java.lang.Object-
