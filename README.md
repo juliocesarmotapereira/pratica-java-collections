@@ -23,3 +23,8 @@ Material de estudos práticos do Programa ONE da Oracle
 * ArrayList: a inserção é bem rápida e a busca muito lenta.
 * HashSet: a inserção um pouco mais lenta do que a das listas, mas a busca é muito rápida.
 
+* ggas Generate Getters and Setters
+* Encapsulando o Set
+* java.util.Collections
+* Collections.emptySet(..)
+* https://docs.oracle.com/javase/8/docs/api/java/util/Collections.html
