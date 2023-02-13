@@ -39,3 +39,7 @@ Material de estudos práticos do Programa ONE da Oracle
 * Set: não aceita duplicados e não define ordem.
 * TreeSet: já ordena os seus elementos na hora da inserção, é o critério da ordenação depende e pode ser definido através de um Comparator.
 
+* Interface Map mapeia valores para chaves, ou seja, através da chave conseguimos acessar o valor.
+* Método utilizado para adicionar um elemento em um Map é o método put.
+* LinkedHashMap: continua nos dando a performance de um HashMap, mas com acesso previsível e ordenado, seguindo a inserção dos seus elementos.
+* API de Collections.
