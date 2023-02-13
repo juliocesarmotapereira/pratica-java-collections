@@ -31,3 +31,6 @@ Material de estudos práticos do Programa ONE da Oracle
 
 * Classe String já possui um método próprio para gerar um hashCode.
 * https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html#equals-java.lang.Object-
+
+* LinkedHashSet: nos dá a performance de um HashSet mas com acesso previsível e ordenado.
+* Classe Vector possui as mesmas características que um ArrayList, com a diferença de que o primeiro possui acesso sincronizado e o segundo não.
