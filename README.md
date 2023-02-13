@@ -9,3 +9,5 @@ Material de estudos práticos do Programa ONE da Oracle
 * gcuf = Generate Constructor
 
 * Método compareTo
+* Collections.unmodifiableList(null): para que não seja mais possível alterar o valor dessa lista por fora da própria classe.
+* ArrayList e LinkedList.
