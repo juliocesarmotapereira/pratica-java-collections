@@ -34,3 +34,8 @@ Material de estudos práticos do Programa ONE da Oracle
 
 * LinkedHashSet: nos dá a performance de um HashSet mas com acesso previsível e ordenado.
 * Classe Vector possui as mesmas características que um ArrayList, com a diferença de que o primeiro possui acesso sincronizado e o segundo não.
+
+* List: é uma sequência e aceita elementos duplicados.
+* Set: não aceita duplicados e não define ordem.
+* TreeSet: já ordena os seus elementos na hora da inserção, é o critério da ordenação depende e pode ser definido através de um Comparator.
+

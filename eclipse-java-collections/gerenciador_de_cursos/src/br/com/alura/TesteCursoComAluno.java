@@ -2,6 +2,7 @@ package br.com.alura;
 
 import java.util.Iterator;
 import java.util.Set;
+import java.util.Vector;
 
 public class TesteCursoComAluno {
 
@@ -34,6 +35,8 @@ public class TesteCursoComAluno {
 			System.out.println(proximo);
 		}
 
+		Vector<Aluno> vetor = new Vector<>();
+		
 //		for(Aluno a : javaColecoes.getAlunos()) {
 //			System.out.println(a);
 //		}
