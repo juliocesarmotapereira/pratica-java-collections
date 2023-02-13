@@ -16,3 +16,10 @@ Material de estudos práticos do Programa ONE da Oracle
 * Collections.shuffle(): embaralhar a ordem de uma lista.
 * Collections.singletonList(): embaralhar a ordem de uma lista.
 * Collections.nCopies(): retorna uma lista imutável com a quantidade escolhida de um determinado elemento.
+
+* Conjunto de elementos é apresentado através da interface java.util.Set
+* Set garante que nenhum elemento se repete.
+* Interface Iterable > Collection > Set ou List
+* ArrayList: a inserção é bem rápida e a busca muito lenta.
+* HashSet: a inserção um pouco mais lenta do que a das listas, mas a busca é muito rápida.
+
